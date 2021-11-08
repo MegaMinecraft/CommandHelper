@@ -1267,7 +1267,7 @@ public class Math {
 
 		@Override
 		public String docs() {
-			return "int {number} Returns the floor of any given number. For example, floor(3.8) returns 3, and floor(-1.1) returns 2";
+			return "int {number} Returns the floor of any given number. For example, floor(3.8) returns 3, and floor(-1.1) returns -2";
 		}
 
 		@Override
